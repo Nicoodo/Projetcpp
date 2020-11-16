@@ -11,4 +11,8 @@
 /home/nicoodo/Documents/ENSTABretagne/tpcpp/Projetcpp/src/main.cpp
 cstdlib
 -
+iostream
+-
+proj_api.h
+-
 
