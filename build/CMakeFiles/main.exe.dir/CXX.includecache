@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nicoodo/Documents/ENSTABretagne/tpcpp/Projetcpp/src/case.cpp
+
+/home/nicoodo/Documents/ENSTABretagne/tpcpp/Projetcpp/src/main.cpp
+
